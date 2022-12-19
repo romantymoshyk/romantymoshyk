@@ -42,3 +42,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/roman-tymoshyk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
 
+
+### ⚙️ GitHub Analytics
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=romantymoshyk&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romantymoshyk&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
